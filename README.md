@@ -38,7 +38,7 @@ Screenshots
 Home Dashboard
 (https://github.com/aradhnas261-commits/AI-Powered-Predictive-Healthcare-Monitoring-System/blob/main/Screenshot%202026-05-31%20180530.png)
 Analytics Dashboard
-(Add Screenshot Here)
+(https://github.com/aradhnas261-commits/AI-Powered-Predictive-Healthcare-Monitoring-System/blob/main/Screenshot%202026-05-31%20180607.png)
 Prediction Results
 (Add Screenshot Here)
 
